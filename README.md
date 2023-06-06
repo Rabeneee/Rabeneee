@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oh hi!
+
+![gif from pusheen.com](https://pusheen.com/pusheen-plop/)
 
 <!--
 **Rabeneee/Rabeneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
