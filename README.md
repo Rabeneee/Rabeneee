@@ -1,6 +1,6 @@
 ### Oh hi!
 
-![gif](https://github.com/Rabeneee/Rabeneee/assets/36700859/c746a037-509b-4a35-aadf-9a6095dc48d3.gif)
+![gif](https://github.com/Rabeneee/Rabeneee/blob/main/Pusheen_Plop.gif)
 
 <!--
 **Rabeneee/Rabeneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
