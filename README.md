@@ -1,4 +1,13 @@
-### Oh hi!
+# Oh, hi there! 🤗
+
+Welcome!
+
+Take a sit and maybe have a look at my  [Codewars profile](https://www.codewars.com/users/Rabeneee) 
+![codewars_badge](https://www.codewars.com/users/Rabeneee/badges/small)
+ where I am currently challenging myself with the `Python language` and improving my `problem solving skills`
+
+
+Or you can just enjoy this lil' cat out there ✨️
 
 ![gif](https://github.com/Rabeneee/Rabeneee/blob/main/Pusheen_Plop.gif)
 
