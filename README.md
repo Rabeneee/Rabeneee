@@ -1,6 +1,6 @@
 ### Oh hi!
 
-![gif from pusheen.com](https://pusheen.com/pusheen-plop/)
+![gif](https://github.com/Rabeneee/Rabeneee/assets/36700859/c746a037-509b-4a35-aadf-9a6095dc48d3.gif)
 
 <!--
 **Rabeneee/Rabeneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
