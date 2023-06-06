@@ -1,15 +1,15 @@
-# Oh, hi there! 🤗
+## Oh, hi there! Welcome to my Github! 
 
-Welcome!
+**Take a sit, get comfy and maybe have a look at my [Codewars profile](https://www.codewars.com/users/Rabeneee)**
+![codewars_badge](https://www.codewars.com/users/Rabeneee/badges/small) 
 
-Take a sit and maybe have a look at my  [Codewars profile](https://www.codewars.com/users/Rabeneee) 
-![codewars_badge](https://www.codewars.com/users/Rabeneee/badges/small)
- where I am currently challenging myself with the `Python language` and improving my `problem solving skills`
+**where I am currently challenging myself with the `Python language` and improving my `problem solving skills`.**
 
+---
 
-Or you can just enjoy this lil' cat out there ✨️
+**Or you can just enjoy this lil' cat out there ✨️**
 
-![gif](https://github.com/Rabeneee/Rabeneee/blob/main/Pusheen_Plop.gif)
+<img src="https://github.com/Rabeneee/Rabeneee/blob/main/Pusheen_Plop.gif" width="315" height="250" />
 
 <!--
 **Rabeneee/Rabeneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
