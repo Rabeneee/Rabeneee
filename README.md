@@ -1,6 +1,6 @@
 # Oh, hi there! Welcome to my Github! <img src="https://github.com/Rabeneee/Rabeneee/blob/main/giphy.gif" width="50" height="50" />
 
-**Take a sit, get comfy and maybe have a look at my [Codewars profile ![codewars_badge](https://www.codewars.com/users/Rabeneee/badges/micro)](https://www.codewars.com/users/Rabeneee)
+**Take a sit, get comfy and maybe have a look at my [Codewars profile ![codewars_badge](https://www.codewars.com/users/Rabeneee/badges/micro)](https://www.codewars.com/users/Rabeneee)**
 
 **where I am currently challenging myself with the `Python language` and improving my `problem solving skills`.**
 
